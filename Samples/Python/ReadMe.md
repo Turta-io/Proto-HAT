@@ -2,8 +2,8 @@
 This directory includes Python samples for Turta Proto HAT.
 
 ## Index
-* __analog_differential.py:__ Demonstrates measuring differential analog inputs from analog ports.
-* __analog_single_ended.py:__ Demonstrates measuring single-ended analog inputs from analog ports.
+* __analog_differential.py:__ Demonstrates measuring differential analog inputs from analog pads.
+* __analog_single_ended.py:__ Demonstrates measuring single-ended analog inputs from analog pads.
 
 ## Running the Python Samples
 * Copy the sample code to your Raspberry Pi.
